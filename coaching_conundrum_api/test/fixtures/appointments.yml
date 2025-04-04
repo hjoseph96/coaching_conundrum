@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2025-03-30 12:40:20
+  end_time: 2025-03-30 12:40:20
+  booked_by: 
+  coach_id: 
+
+two:
+  start_time: 2025-03-30 12:40:20
+  end_time: 2025-03-30 12:40:20
+  booked_by: 
+  coach_id: 
