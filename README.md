@@ -12,12 +12,12 @@ This will create test users for testing.
     rails s -p 3001
 ```
 
-This exposes the API on ``localhost:3001`. 
+This exposes the API on `localhost:3001`. 
 
 
 ## FRONTEND
 
-In another terminal, run:
+In another terminal, go to `/couching_conundrum_frontend` and run:
 
 ```bash
     npm install
